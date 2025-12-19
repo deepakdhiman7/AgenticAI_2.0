@@ -4,6 +4,7 @@ langchain
 langchain-openai
 langchain-groq
 langchain-core
+langchain-chroma
 langchain-community
 defusedxml
 langchain-huggingface
@@ -18,3 +19,4 @@ python-magic
 python-magic-bin
 sentence-transformers
 langchain-text-splitters
+chromadb
