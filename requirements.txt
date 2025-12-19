@@ -17,3 +17,4 @@ unstructured[pdf]
 python-magic
 python-magic-bin
 sentence-transformers
+langchain-text-splitters
