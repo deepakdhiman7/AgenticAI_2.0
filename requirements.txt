@@ -20,3 +20,5 @@ python-magic-bin
 sentence-transformers
 langchain-text-splitters
 chromadb
+duckduckgo-search
+pymupdf

@@ -1,3 +1,18 @@
 .env
 .agentic_ai
-3-vectordb/Chroma
+.azure
+
+
+# Chroma Vector Database (both locations)
+chroma/
+**/chroma/
+3-vectoredb/Chroma/
+4-langgraph/chroma/
+
+# Additional safety for common Chroma files
+*.sqlite3
+**/*_level*.bin
+**/*header.bin
+**/*length.bin
+**/*link_lists.bin
+**/*.bin
